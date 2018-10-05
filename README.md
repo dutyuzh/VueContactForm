@@ -1,8 +1,8 @@
 # Vue Contact Form
-personal blog and code examples
+## Integrating Vue.js + EmailJS
 
 
- https://github.com/dutyuzh/VueContactForm
+https://github.com/dutyuzh/VueContactForm
  
  ### clone repo
  
