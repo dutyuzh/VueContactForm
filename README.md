@@ -1,5 +1,5 @@
 # VueContactForm
-email js integration with vuejs - I couldn't find any good examples of this online so I'm creating my own
+email js integration with vuejs - I couldn't find any good examples of integrating emailjs with view so I'm creating my own
 
 ## Sign up for an account on EmailJs
 http://www.emailjs.com/
