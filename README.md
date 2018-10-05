@@ -1,4 +1,5 @@
 # [VueContactForm](https://github.com/dutyuzh/VueContactForm)
+(https://github.com/dutyuzh/VueContactForm/blob/master/src/assets/images/contact-form.png)
 ## Integrating Vue.js + EmailJS
 
 ## Before starting you must have a [EmailJS](http://www.emailjs.com/) account (its free!)
