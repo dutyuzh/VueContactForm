@@ -2,11 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33ff8119-caf1-49ff-b656-d74c78913020" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/CNAME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/gh-pages/.cache/github.com!dutyuzh!dashautyuzh.git" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/app.36203bd6.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/app.b34924ec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/app.b34924ec.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/browserconfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/chunk-vendors.d433cfa9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/chunk-vendors.d433cfa9.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/SourceSansPro-BlackItalic.31ae9402.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/SourceSansPro-BlackItalic.490bebe0.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/SourceSansPro-BlackItalic.adaf9bf8.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/SourceSansPro-BlackItalic.e5afe70a.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/SourceSansPro-Bold.027d4aca.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/SourceSansPro-Bold.0d93b863.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/SourceSansPro-Bold.5d73b41e.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/SourceSansPro-Bold.ce0d34ba.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/SourceSansPro-ExtraLight.0a7ed5ae.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/SourceSansPro-ExtraLight.218c31a2.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/SourceSansPro-ExtraLight.cd1aecf8.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/SourceSansPro-ExtraLight.fd04b68b.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/SourceSansPro-Regular.5182da42.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/SourceSansPro-Regular.569a0330.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/SourceSansPro-Regular.7bd8999e.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/fonts/SourceSansPro-Regular.a3a1bfbb.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/google9b8537d566d3b630.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/SourceSansPro-BlackItalic.20ffb28e.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/SourceSansPro-Bold.0189de0a.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/SourceSansPro-ExtraLight.d6b18b46.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img/SourceSansPro-Regular.2b13a9c6.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/gh-pages/.cache/github.com!dutyuzh!vuecontactform.git" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/gh-pages/.cache/github.com!dutyuzh!vuecontactform.git" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,11 +81,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="53" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CNAME" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CNAME">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -86,15 +121,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="468">
               <caret line="76" column="34" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_variables.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assets/scss/global/_variables.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -129,6 +155,8 @@
       <find>publicPath</find>
       <find>changelog</find>
       <find>contact-f</find>
+      <find>dashautyuzh.com</find>
+      <find>dashautyuzh</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -148,6 +176,7 @@
         <option value="$PROJECT_DIR$/docs/CNAME" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/CNAME" />
       </list>
     </option>
   </component>
@@ -220,12 +249,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538745250670</updated>
-      <workItem from="1538745251834" duration="2229000" />
+      <workItem from="1538745251834" duration="2435000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2229000" />
+    <option name="totallyTimeSpent" value="2435000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1680" y="23" width="1920" height="972" extended-state="0" />
@@ -387,8 +416,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="53" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
