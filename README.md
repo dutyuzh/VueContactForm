@@ -1,8 +1,8 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)]
+[Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges)
 
 # [VueContactForm](https://github.com/dutyuzh/VueContactForm)
 
-[![Contact Form](https://github.com/dutyuzh/VueContactForm/blob/master/src/assets/images/contact-form.png)]
+[Contact Form](https://github.com/dutyuzh/VueContactForm/blob/master/src/assets/images/contact-form.png)
 
 ## Integrating Vue.js + EmailJS
 
