@@ -7,8 +7,7 @@
     "build": "node_modules/.bin/vue-cli-service build",
     "lint": "node_modules/.bin/vue-cli-service lint",
     "test:unit": "node_modules/.bin/vue-cli-service test:unit",
-    "test:e2e": "node_modules/.bin/vue-cli-service test:e2e",
-    "deploy": "node ./node_modules/vue-gh-pages/index.js"
+    "test:e2e": "node_modules/.bin/vue-cli-service test:e2e"
   },
   "dependencies": {
     "emailjs-com": "^2.2.4",
@@ -27,7 +26,6 @@
     "node-sass": "^4.9.0",
     "push-dir": "^0.4.1",
     "sass-loader": "^7.0.1",
-    "vue-gh-pages": "^1.18.2",
     "vue-template-compiler": "^2.5.16"
   },
   "browserslist": [
