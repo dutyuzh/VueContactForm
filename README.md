@@ -1,10 +1,9 @@
-# Vue Contact Form
+# [VueContactForm](https://github.com/dutyuzh/VueContactForm)
 ## Integrating Vue.js + EmailJS
 
+## Before starting you must have a [EmailJS](http://www.emailjs.com/) account (its free!)
 
-https://github.com/dutyuzh/VueContactForm
- 
- ### clone repo
+### clone repo
  
 `git clone git@github.com:dutyuzh/VueContactForm.git`
 
