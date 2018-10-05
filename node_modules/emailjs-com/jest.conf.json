@@ -1,0 +1,21 @@
+{
+  "globals": {
+    "ts-jest": {
+      "enableTsDiagnostics": true,
+      "skipBabel": true
+    }
+  },
+  "collectCoverage": true,
+  "coverageDirectory": "coverage",
+  "transform": {
+    "^.+\\.ts?$": "ts-jest"
+  },
+  "testRegex": "(/__tests__/.*|(\\.|/)(spec))\\.(ts?)$",
+  "moduleFileExtensions": [
+    "ts",
+    "js"
+  ],
+  "modulePaths": [
+    "src"
+  ]
+}

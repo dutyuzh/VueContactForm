@@ -1,0 +1,47 @@
+// ------------------------------------------
+// Font Declarations
+// ------------------------------------------
+$font_path: '~@/assets/fonts/';
+@font-face {
+  font-family: 'SourceSansPro-ExtraLight';
+  src: url($font_path +'SourceSansPro-ExtraLight.eot');
+  src: url($font_path +'SourceSansPro-ExtraLight.eot?#iefix') format('embedded-opentype'),
+  url($font_path +'SourceSansPro-ExtraLight.woff') format('woff'),
+  url($font_path +'SourceSansPro-ExtraLight.woff2') format('woff2'),
+  url($font_path +'SourceSansPro-ExtraLight.ttf')  format('truetype'),
+  url($font_path +'SourceSansPro-ExtraLight.svg#SourceSansPro-ExtraLight') format('svg');
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'SourceSansPro-Regular';
+  src: url($font_path +'SourceSansPro-Regular.eot');
+  src: url($font_path +'SourceSansPro-Regular.eot?#iefix') format('embedded-opentype'),
+  url($font_path +'SourceSansPro-Regular.woff') format('woff'),
+  url($font_path +'SourceSansPro-Regular.woff2') format('woff2'),
+  url($font_path +'SourceSansPro-Regular.ttf')  format('truetype'),
+  url($font_path +'SourceSansPro-Regular.svg#SourceSansPro-Regular') format('svg');
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'SourceSansPro-Bold';
+  src: url($font_path +'SourceSansPro-Bold.eot');
+  src: url($font_path +'SourceSansPro-Bold.eot?#iefix') format('embedded-opentype'),
+  url($font_path +'SourceSansPro-Bold.woff') format('woff'),
+  url($font_path +'SourceSansPro-Bold.woff2') format('woff2'),
+  url($font_path +'SourceSansPro-Bold.ttf')  format('truetype'),
+  url($font_path +'SourceSansPro-Bold.svg#SourceSansPro-Bold') format('svg');
+  text-rendering: optimizeLegibility;
+}
+
+@font-face {
+  font-family: 'SourceSansPro-BlackItalic';
+  src: url($font_path +'SourceSansPro-BlackItalic.eot');
+  src: url($font_path +'SourceSansPro-BlackItalic.eot?#iefix') format('embedded-opentype'),
+  url($font_path +'SourceSansPro-BlackItalic.woff') format('woff'),
+  url($font_path +'SourceSansPro-BlackItalic.woff2') format('woff2'),
+  url($font_path +'SourceSansPro-BlackItalic.ttf')  format('truetype'),
+  url($font_path +'SourceSansPro-BlackItalic.svg#SourceSansPro-BlackItalic') format('svg');
+  text-rendering: optimizeLegibility;
+}

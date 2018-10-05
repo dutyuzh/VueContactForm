@@ -1,0 +1,30 @@
+/*	-------------------------------------
+	:: The Grid
+	---------------------------------- */
+.container {
+    z-index: 1;
+    width: 90%;
+    max-width: 1300px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    /* container modifiers */
+    /* container-dictated column widths */
+}
+
+
+.container .column {
+    flex: 0 0 100%;
+}
+
+
+@media (min-width: 650px) {
+    .container .column {
+        /* column widths */
+        /* offsets */
+    }
+    .container .column:first-child {
+        margin-left: 0;
+    }
+}

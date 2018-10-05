@@ -1,0 +1,70 @@
+// font stack
+@mixin font-stack($ff, $weight: normal) {
+  font-family: #{$ff}, Helvetica, Arial, sans-serif;
+  font-weight: $weight;
+}
+
+// font families
+%ff--200 { @include font-stack('Prompt', 200) }
+%ff--300 { @include font-stack('Prompt', 300) }
+%ff--500 { @include font-stack('Prompt', 500) }
+%ff--700 { @include font-stack('Prompt', 700) }
+
+// extend placeholders
+%txt--body {
+  @extend %ff--300;
+  font-size: 1rem;
+}
+
+%txt--rte {
+  @extend %txt--body;
+  line-height: 1.5;
+}
+
+%txt--banner {
+  @extend %ff--700;
+  line-height: 1;
+  font-size: 2.4rem;
+  letter-spacing: -.005em;
+
+  @media (--tablet) {
+    font-size: 2.6rem;
+  }
+}
+
+%txt--preview {
+  @extend %ff--500;
+  font-size: 3rem;
+  text-transform: capitalize;
+
+  @media (--laptop) {
+    font-size: 2.7rem;
+  }
+
+  @media (--desktop) {
+    font-size: 3.2rem;
+  }
+}
+
+%txt--title {
+  @extend %ff--200;
+  font-size: 3rem;
+  line-height: 1.2;
+  text-transform: capitalize;
+
+  @media (--laptop) {
+    font-size: 3.2rem;
+  }
+}
+
+%txt--subtitle {
+  @extend %ff--500;
+  font-size: 1.25rem;
+  line-height: 1.5;
+}
+
+%txt--heading {
+  @extend %ff--700;
+  font-size: 1.15rem;
+  line-height: 1.5;
+}

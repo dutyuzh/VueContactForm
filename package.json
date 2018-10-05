@@ -1,0 +1,39 @@
+{
+  "name": "vuecontactform",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "node_modules/.bin/vue-cli-service serve",
+    "build": "node_modules/.bin/vue-cli-service build",
+    "lint": "node_modules/.bin/vue-cli-service lint",
+    "test:unit": "node_modules/.bin/vue-cli-service test:unit",
+    "test:e2e": "node_modules/.bin/vue-cli-service test:e2e",
+    "deploy": "node ./node_modules/vue-gh-pages/index.js"
+  },
+  "dependencies": {
+    "emailjs-com": "^2.2.4",
+    "vue": "^2.5.16",
+    "vue-router": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.0-beta.15",
+    "@vue/cli-plugin-eslint": "^3.0.0-beta.15",
+    "@vue/cli-plugin-unit-mocha": "^3.0.0-beta.15",
+    "@vue/cli-service": "^3.0.0-beta.15",
+    "@vue/eslint-config-standard": "^3.0.0-rc.3",
+    "@vue/test-utils": "^1.0.0-beta.16",
+    "bootstrap": "^4.1.1",
+    "chai": "^4.1.2",
+    "node-sass": "^4.9.0",
+    "push-dir": "^0.4.1",
+    "sass-loader": "^7.0.1",
+    "vue-gh-pages": "^1.18.2",
+    "vue-template-compiler": "^2.5.16"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "homepage": "https://github.com/dutyuzh/dashautyuzh"
+}

@@ -1,0 +1,42 @@
+// ------------------------------------------
+// Colors
+// ------------------------------------------
+
+$orange: #f37d5f;
+$antique-purple: #844e70;
+$sonic-silver: #757575;
+$gray: #969aa0;
+$antique-purple-light: #bb8caa;
+$dark-gray: #3b3c40;
+$vivid-tangerine: #ffa089;
+$white: #fff;
+$black: #000;
+$opac-dark-gray: rgba(60,61,64,0.6);
+
+$dark-grape: #421C52;
+$grape: #9C8AA5;
+$light-grape: #CABED1;
+
+
+
+// ------------------------------------------
+// Fonts
+// ------------------------------------------
+$SSP: 'SourceSansPro-Regular', sans-serif;
+$SSP-light: 'SourceSansPro-ExtraLight', sans-serif;
+$SSP-bold: 'SourceSansPro-Bold', sans-serif;
+$SSP-black-italic: 'SourceSansPro-BlackItalic', sans-serif;
+
+// ------------------------------------------
+// Layout Breakpoints 
+// (adjust/add to and name accordingly)
+// ------------------------------------------
+$breakpoints: (
+    small : 25em, // 400px
+    small-medium: 37.5em, //600px
+    medium : 56.25em, // 900px
+    medium-large: 75em, //1200px
+    large: 87.5em, // 1400px
+);
+
+

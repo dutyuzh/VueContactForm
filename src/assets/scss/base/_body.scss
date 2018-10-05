@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+}
+
+html {
+  transition: background-color 1s cubic-bezier(0.2, 0.3, 0.25, 0.9);
+}
+input[type="button"] span:last-child::before {
+  left: 0;
+  //transform-origin: bottom left;
+}
+
+@media (max-width: 1099px) and (min-width: 600px) {
+  body.nav-open {
+    transform: rotateY(0.015deg);
+  }
+}
+
+@media (max-width: 1099px) and (min-width: 800px) {
+  body.nav-open {
+    transform: rotateY(0.01deg);
+  }
+}
+
+@media (max-width: 1099px) {
+  body {
+
+    &.nav-open {
+      overflow: hidden;
+      #main {
+        main, footer {
+          pointer-events: none;
+          filter: blur(3px);
+          transform: rotateY(0.02deg) translateX(-3px);
+        }
+
+      }
+    }
+  }
+}
+

@@ -1,0 +1,20 @@
+.button {
+    &.dark-huge {
+        display: inline-block !important;
+        color: white !important;
+        background: $grape 82.5% 50%/2.712rem 2.274rem no-repeat;
+        font-size: 1.25rem;
+        padding: 0.6em 1.6em 0.6em 1.6em !important;
+        letter-spacing: 0;
+        text-transform: capitalize;
+        width: 100%;
+        text-align: center;
+        @include respond-to(small-medium){
+            font-size: 1.5rem;
+        }
+
+        @include respond-to(medium){
+            font-size: 1.2rem;
+        }
+    }
+}
