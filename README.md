@@ -12,7 +12,7 @@
 
 ### cd into project directory
 
-`cd Vue Contact Form`
+`cd vuecontactform`
 
 ### install node modules
 
