@@ -1,16 +1,21 @@
-# dutyuzh.github.io
+# Vue Contact Form
 personal blog and code examples
 
 
- https://dutyuzh.github.io/dashautyuzh/
+ https://github.com/dutyuzh/VueContactForm
+ 
+ ### clone repo
+ 
+`git clone git@github.com:dutyuzh/VueContactForm.git`
 
-npm install
+### cd into project directory
 
-to build:
-npm run build
+`cd Vue Contact Form`
 
-to view locally:
-npm run serve
+### install node modules
 
-deploy vue cli to github pages
-npm run deploy
+`npm install`
+
+### start dev server
+
+`npm run serve`
