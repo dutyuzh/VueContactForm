@@ -4,21 +4,21 @@
 
 ## Integrating Vue.js + EmailJS
 
-## Before starting you must have a [EmailJS](http://www.emailjs.com/) account (its free!)
+### Before starting you must have a [EmailJS](http://www.emailjs.com/) account (its free!)
 
-### clone repo
+#### clone repo
  
 `git clone git@github.com:dutyuzh/VueContactForm.git`
 
-### cd into project directory
+#### cd into project directory
 
 `cd vuecontactform`
 
-### install node modules
+#### install node modules
 
 `npm install`
 
-### start dev server
+#### start dev server
 
 `npm run serve`
 
